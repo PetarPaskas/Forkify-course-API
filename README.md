@@ -1,5 +1,5 @@
 # Forkify queries 
-Available search queries
+Available search queries:
 carrot
 broccoli
 asparagus
